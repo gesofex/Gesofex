@@ -33,6 +33,7 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
     <CodeAnalysisRuleSet>..\..\RuleSet\Gesofex.RuleSet.StyleCop\Rules\Gesofex.Rules.ruleset</CodeAnalysisRuleSet>
+    <DocumentationFile>bin\Gesofex.API.Connect.xml</DocumentationFile>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>

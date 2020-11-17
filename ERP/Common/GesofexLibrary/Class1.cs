@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace GesofexLibrary
 {
+/// <summary>
+///   <br />
+/// </summary>
     public class Class1
     {
     }

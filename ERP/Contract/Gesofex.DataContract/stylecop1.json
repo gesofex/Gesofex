@@ -6,14 +6,9 @@
   // https://github.com/DotNetAnalyzers/StyleCopAnalyzers/blob/master/documentation/EnableConfiguration.md
 
   "$schema": "https://raw.githubusercontent.com/DotNetAnalyzers/StyleCopAnalyzers/master/StyleCop.Analyzers/StyleCop.Analyzers/Settings/stylecop.schema.json",
-    "settings": {
-        "documentationRules": {
-            "companyName": "Gesofex",
-            "copyrightText": "Copyright (c) Gesofex. All rights reserved.",
-            "xmlHeader": true
-        },
-        "orderingRules": {
-            "usingDirectivesPlacement": "preserve"
-        }
+  "settings": {
+    "documentationRules": {
+      "companyName": "PlaceholderCompany"
     }
+  }
 }
